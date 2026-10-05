@@ -72,3 +72,7 @@ Real-time 1-to-1 chat application built with the MERN stack and Socket.IO.
 *Nov 2025*
 
 - Completed a 12-week certified program in Java Programming and Object-Oriented Programming.
+
+## Connect With Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/samriddhi-malhotra01/)
