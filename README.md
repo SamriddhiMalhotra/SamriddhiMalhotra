@@ -27,3 +27,34 @@
 
 **Deployment**
 - Render
+
+## Featured Projects
+
+### 🍔 Cravely — Food Delivery Application
+
+Full-stack food delivery platform built with the MERN stack.
+
+**Key features:**
+- 🗺️ Real-time delivery tracking using Google Maps and Socket.IO
+- 🔐 Google One Tap authentication and email OTP-based password reset
+- 💳 Razorpay payment integration
+- 👥 Role-based order management for shop owners and delivery partners
+
+**Tech:** MERN, Socket.IO, Google Maps, Razorpay
+
+🔗 [GitHub](https://github.com/SamriddhiMalhotra/Cravely)
+
+### 💬 SyncChat — Real-Time Chat Application
+
+Real-time 1-to-1 chat application built with the MERN stack and Socket.IO.
+
+**Key features:**
+- 🔐 JWT authentication and email OTP verification
+- 💬 Real-time messaging and typing indicators
+- 🟢 Online/offline presence and read receipts
+- 🖼️ Image sharing with Cloudinary
+- 🚀 Deployed on Render
+
+**Tech:** MERN, Socket.IO, Redux Toolkit, Cloudinary
+
+🔗 [Live Demo](https://syncchat-frontend-vggb.onrender.com/) | [GitHub](https://github.com/SamriddhiMalhotra/SyncChat)
