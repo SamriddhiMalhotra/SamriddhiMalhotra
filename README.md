@@ -58,3 +58,17 @@ Real-time 1-to-1 chat application built with the MERN stack and Socket.IO.
 **Tech:** MERN, Socket.IO, Redux Toolkit, Cloudinary
 
 🔗 [Live Demo](https://syncchat-frontend-vggb.onrender.com/) | [GitHub](https://github.com/SamriddhiMalhotra/SyncChat)
+
+## Experience & Certifications
+
+### AI Intern — IBM Developer Skills Network (PBEL)
+*Remote | Jun 2025 – Jul 2025*
+
+- Developed **BookBot**, a Python/Flask-based book recommendation chatbot with keyword-based genre detection and conversational greeting handling.
+- Built a web interface using HTML/CSS and handled user requests through Flask GET/POST routes.
+- Deployed the application publicly using ngrok on Google Colab.
+
+### NPTEL — Java Programming & Object-Oriented Programming
+*Nov 2025*
+
+- Completed a 12-week certified program in Java Programming and Object-Oriented Programming.
